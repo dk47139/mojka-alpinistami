@@ -1,0 +1,380 @@
+Uri: https://api-maps.yandex.ru/services/constructor/1.0/js/?um=constructor:54b87d109cb5e552a4d04cf202e8d01c0fe3888b0d4e2da382a6babb18b171e5&width=100%25&height=400&lang=ru_RU&scroll=true
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\services\constructor\1.0\js\index.htm
+Content Type: application/javascript
+
+Uri: https://cdn.mysitemapgenerator.com/api/htmlsitemaps.min.js
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\api\htmlsitemaps.min.js
+Content Type: text/javascript
+
+Uri: https://code.jquery.com/jquery-2.2.4.min.js
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\jquery-2.2.4.min.js
+Content Type: application/javascript
+
+Uri: https://mojka-alpinistami.vercel.app/
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\index.htm
+Content Type: text/html
+
+Uri: https://mojka-alpinistami.vercel.app/Политика конфиденциальности.docx
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\Политика конфиденциальности.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://mojka-alpinistami.vercel.app/Согласие на обработку персональных данных с сайта.docx
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\Согласие на обработку персональных данных с сайта.docx
+Content Type: application/vnd.openxmlformats-officedocument.wordprocessingml.document
+
+Uri: https://mojka-alpinistami.vercel.app/apple-touch-icon.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\apple-touch-icon.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/css/style.css
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\css\style.css
+Content Type: text/css
+
+Uri: https://mojka-alpinistami.vercel.app/assets/fonts/UniNeueHeavy.woff
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\fonts\UniNeueHeavy.woff
+Content Type: application/x-font-woff
+
+Uri: https://mojka-alpinistami.vercel.app/assets/fonts/UniNeueHeavy.woff2
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\fonts\UniNeueHeavy.woff2
+Content Type: 
+
+Uri: https://mojka-alpinistami.vercel.app/assets/fonts/UniNeueRegular.woff
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\fonts\UniNeueRegular.woff
+Content Type: application/x-font-woff
+
+Uri: https://mojka-alpinistami.vercel.app/assets/fonts/UniNeueRegular.woff2
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\fonts\UniNeueRegular.woff2
+Content Type: 
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/сертификат.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\сертификат.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/2гис.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\2гис.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/2gis_human.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\2gis_human.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/akcii.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\akcii.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/avito_human.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\avito_human.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/conkurent.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\conkurent.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/garantii.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\garantii.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/header__image.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\header__image.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/2gis.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\2gis.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/address.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\address.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/avito.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\avito.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/burger.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\burger.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/calc.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\calc.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/calc__black.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\calc__black.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/calc__mob.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\calc__mob.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/call.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\call.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/check.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\check.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/check_gray.svg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\check_gray.svg
+Content Type: image/svg+xml
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/email.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\email.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/mail.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\mail.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/phone-call.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\phone-call.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/phone.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\phone.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/phone__gold.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\phone__gold.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/phone__mob.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\phone__mob.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/pointer.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\pointer.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/warning.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\warning.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/whats.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\whats.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/whats__mob.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\whats__mob.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/yandex.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\yandex.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/icons/Yandex_logo.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\icons\Yandex_logo.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/image.svg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\image.svg
+Content Type: image/svg+xml
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/invalidam.webp
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\invalidam.webp
+Content Type: image/webp
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/karta.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\karta.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка альпинистами окна нестандартного большого размера.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка альпинистами окна нестандартного большого размера.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка двухстворчатого окна альпинистами.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка двухстворчатого окна альпинистами.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка одностворчатого окна альпинистами.jpeg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка одностворчатого окна альпинистами.jpeg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка окон альпинистами.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка окон альпинистами.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка окон альпинистом европакет (1 сторона).jpeg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка окон альпинистом европакет (1 сторона).jpeg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка окон альпинистом старого образца (2 стороны).jpeg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка окон альпинистом старого образца (2 стороны).jpeg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка окон высотных зданий альпинистами.jpeg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка окон высотных зданий альпинистами.jpeg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка окон на высоте альпинистами2.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка окон на высоте альпинистами2.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка остекления балкона лоджии альпинистами.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка остекления балкона лоджии альпинистами.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка трехстворчатого окна альпинистами.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка трехстворчатого окна альпинистами.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/Мойка фасадного остекления альпинистами.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\Мойка фасадного остекления альпинистами.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/gorod1.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\gorod1.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/gorod2.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\gorod2.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/gorod3.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\gorod3.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyv1.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyv1.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyv2.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyv2.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyv3.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyv3.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyv4.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyv4.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyv5.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyv5.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyva1.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyva1.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyva2.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyva2.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyva3.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyva3.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyva4.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyva4.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/otzyva5.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\otzyva5.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/portfolio1.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\portfolio1.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/portfolio2.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\portfolio2.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/portfolio3.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\portfolio3.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/portfolio4.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\portfolio4.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/portfolio5.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\portfolio5.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/portfolio6.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\portfolio6.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/video1.mp4
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\video1.mp4
+Content Type: video/mp4
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/katalog/video2.mp4
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\katalog\video2.mp4
+Content Type: video/mp4
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/logo.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\logo.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/materyam-odinochkam.webp
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\materyam-odinochkam.webp
+Content Type: image/webp
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/mnogodetnym-semyam.webp
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\mnogodetnym-semyam.webp
+Content Type: image/webp
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/nagrada.webp
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\nagrada.webp
+Content Type: image/webp
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/pensioneram.webp
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\pensioneram.webp
+Content Type: image/webp
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/rassrochka.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\rassrochka.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/uchastnikam-boevykh-dejstvij.webp
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\uchastnikam-boevykh-dejstvij.webp
+Content Type: image/webp
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/vakancii.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\vakancii.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/veteranam-vov.webp
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\veteranam-vov.webp
+Content Type: image/webp
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/vozvrat.jpg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\vozvrat.jpg
+Content Type: image/jpeg
+
+Uri: https://mojka-alpinistami.vercel.app/assets/images/yandex_human.png
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\images\yandex_human.png
+Content Type: image/png
+
+Uri: https://mojka-alpinistami.vercel.app/assets/js/main.js
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\js\main.js
+Content Type: application/javascript
+
+Uri: https://mojka-alpinistami.vercel.app/assets/js/metrika.js
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\assets\js\metrika.js
+Content Type: application/javascript
+
+Uri: https://mojka-alpinistami.vercel.app/favicon.ico
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\favicon.ico
+Content Type: image/x-icon
+
+Uri: https://mojka-alpinistami.vercel.app/icon.svg
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\icon.svg
+Content Type: image/svg+xml
+
+Uri: https://mojka-alpinistami.vercel.app/manifest.webmanifest
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\manifest.webmanifest
+Content Type: 
+
+Uri: https://mojka-alpinistami.vercel.app/prav-info.pdf
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\prav-info.pdf
+Content Type: application/pdf
+
+Uri: https://mojka-alpinistami.vercel.app/sitemap.html
+File Name: C:\Downloaded Web Sites\mojka-alpinistami.vercel.app\sitemap.html
+Content Type: text/html
+
